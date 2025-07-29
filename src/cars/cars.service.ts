@@ -20,7 +20,7 @@ export class CarsService {
         seats: 5,
         transmission: 'CVT',
         mpg: 32,
-        image: 'car2.png',
+        image: 'car.png',
       },
     ];
   }
